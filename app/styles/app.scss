@@ -1,0 +1,15 @@
+@import "vendor/scss/theme.scss";
+
+#pci-badge {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+
+.image-link {
+  border: none !important;
+}
+
+.image-link:hover {
+  background: transparent !important;
+}

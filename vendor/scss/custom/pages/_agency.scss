@@ -1,10 +1,7 @@
 .agency-hero {
   min-height: 100vh;
   position: relative;
-  background-image: url('#{$imagesPath}/home.jpg');
-  background-size: cover;
-  background-position: center center;
-  background-attachment: fixed;
+  background-color: #1a1919;
 
   @media(max-width: 1024px) {
     background-attachment: inherit;
@@ -17,7 +14,6 @@
     top: 0px;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.17);
   }
 
   section {

@@ -13,3 +13,41 @@
 .image-link:hover {
   background: transparent !important;
 }
+
+.navbar {
+  background-color: #1a1919 !important;
+
+  a {
+    color: #d4717d !important;
+  }
+}
+
+.paw-background {
+  background-image: url("/images/paw-bg.png");
+  background-repeat: repeat;
+}
+
+.highlight {
+  color: #d4717d !important;
+  background-color: rgba(26, 25, 25, 0.8);
+  width: 300px;
+}
+
+.hero-text {
+  background-color: rgba(26, 25, 25, 0.8);
+
+  a {
+    color: #d4717d;
+    border: 1px solid #d4717d;
+  }
+
+  a:hover {
+    background-color: #d4717d;
+  }
+}
+
+.pricing-plans {
+  a {
+    background-color: #d4717d !important;
+  }
+}

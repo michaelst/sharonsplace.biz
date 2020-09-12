@@ -11,6 +11,7 @@ module.exports = function(defaults) {
     }
   });
 
+  app.import('vendor/bootstrap.bundle.js');
   app.import('vendor/theme.js');
 
   // Use `app.import` to add additional libraries to the generated

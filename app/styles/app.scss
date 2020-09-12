@@ -47,7 +47,13 @@
 }
 
 .pricing-plans {
-  a {
+  .card-header {
+    a {
+      color:  #d4717d;
+    }
+  }
+
+  .btn-shadow {
     background-color: #d4717d !important;
   }
 }
